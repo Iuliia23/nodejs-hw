@@ -2,6 +2,7 @@
   "name": "node.js-hw",
   "version": "1.0.0",
   "description": "Node.JS",
+  "homepage": "https://Iuliia23.github.io/nodejs-hw/",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
