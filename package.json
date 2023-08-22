@@ -1,14 +1,14 @@
 {
   "name": "node.js-hw",
   "version": "1.0.0",
-  "description": "",
+  "description": "Node.JS",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
     "start:dev": "nodemon index.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Usova Iuliia",
   "license": "ISC",
   "devDependencies": {
     "cross-env": "^7.0.3",
